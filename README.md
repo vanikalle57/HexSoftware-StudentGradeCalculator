@@ -1,0 +1,2 @@
+# HexSoftware-StudentGradeCalculator
+The Student Grade Calculator is a Java program that evaluates student performance from marks in multiple subjects. It stores details (name, ID, marks), calculates the average score, and determines pass/fail based on criteria like a minimum of 35 marks per subject, providing a simple academic tracking solution.
